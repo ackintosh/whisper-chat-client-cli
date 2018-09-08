@@ -1,0 +1,24 @@
+{
+  "name": "whisper-chat-client-cli",
+  "version": "0.0.1",
+  "description": "Whisper chat client DApp for CLI.",
+  "main": "app.js",
+  "scripts": {},
+  "repository": "ackintosh/whisper-chat-client-cli",
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/ackintosh/whisper-chat-client-cli/issues"
+  },
+  "homepage": "https://github.com/ackintosh/whisper-chat-client-cli",
+  "engines": {
+    "node": ">=8.11.0"
+  },
+  "bin": {
+    "whisper-chat-client": "./app.js"
+  },
+  "dependencies": {
+    "web3": "1.0.0-beta.36"
+  }
+}
